@@ -1,0 +1,29 @@
+{
+  "id": "8f2b6a3e-2c4a-4a7a-9b8b-1a2b3c4d5e6f",
+  "name": "Access Manager for Business Central",
+  "publisher": "Olalekan",
+  "version": "1.0.0.0",
+  "brief": "Plain-language admin tool to assign users to companies, access bundles, and role centers.",
+  "description": "Lets an admin manage, per user, which companies they can access, which curated 'Access Bundle' of permission sets applies in each company, and which role center they land on. Wraps native Access Control / User Personalization rather than replacing them.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0"
+}
